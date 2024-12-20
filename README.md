@@ -1,1 +1,1 @@
-# Detection of Traffic Light Violations
+# Detection of Traffic Violations
